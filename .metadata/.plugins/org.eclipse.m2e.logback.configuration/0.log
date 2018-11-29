@@ -1,0 +1,5 @@
+2018-11-29 12:39:38,813 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-11-29 12:42:15,621 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.serenityexample.test:serenityexample:1.0-SNAPSHOT @ C:\Users\georg\Documents\GitHub\SerenityTestingExample\serenityexample\pom.xml.
+2018-11-29 12:42:27,260 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /serenityexample/src/main/java
+2018-11-29 12:42:27,328 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /serenityexample/src/test/java
+2018-11-29 12:42:27,329 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /serenityexample/src/test/resources
